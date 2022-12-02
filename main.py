@@ -98,11 +98,6 @@ if __name__ == "__main__":
     # прмиеняем метод
     '''
     # data_goode = sdvig(data_Badk,20)
-
-    # data_goode = sdvig(data_Badk, w)
-    # data_goode2 = test2(data_Badk)
-    # data_goode3 = change_pixel(data_goode2, data_good)
-    # data_goode4 = data_goode = test2(data_goode3)
     '''
     
     # графики
